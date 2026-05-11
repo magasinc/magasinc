@@ -26,7 +26,7 @@ proyectos y mis intereses.
 * Nombre: Mateo Gallegos
 * Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Guayaquil - Ecuador
-* Sitio web: 
+* Sitio web: https://magasinc.github.io/magasinc/
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
