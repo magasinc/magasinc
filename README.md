@@ -19,3 +19,5 @@ proyectos y mis intereses.
 * Ciberseguridad
 * Control de Bases de Datos
 * Ciencia de Datos
+* Desarrollo de aplicaciones
+
