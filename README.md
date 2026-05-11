@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**magasinc/magasinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
@@ -28,6 +13,9 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil - Ecuador
 * Sitio web: https://magasinc.github.io/magasinc/
 ## Proyectos
-* [Lista de tus proyectos]
+* App móvil de jornadas de las Olimpiadas 2024
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo Web
+* Ciberseguridad
+* Control de Bases de Datos
+* Ciencia de Datos
