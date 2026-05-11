@@ -23,10 +23,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Mateo Gallegos
+* Ocupación: Estudiante de Ingeniería en Computación
+* Lugar de residencia: Guayaquil - Ecuador
+* Sitio web: 
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
